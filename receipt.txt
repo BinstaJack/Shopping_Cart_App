@@ -1,0 +1,8 @@
+Date: 2025-06-25 11:12:28
+Items Purchased:
+Bread      x 2   @ R10.00 = R20.00
+Milk       x 1   @ R12.00 = R12.00
+----------------------------
+TOTAL: R32.00
+Thank you for shopping with us!
+==============================
